@@ -1,0 +1,20 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-family: "Poppins", sans-serif;
+  font-size: 62.5%;
+}
+
+body {
+  font-size: 1.6rem;
+  /* Background */
+  height: 100vh;
+  background-image: url("public/images/bgc-vtc.jpg");
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
